@@ -4,8 +4,8 @@
 # for contador in range(1, 1001):
 #     print(contador)
 
-for i in range(10):
-    print(11 * i)
+# for i in range(10):
+#     print(11 * i)
 
 def run():
     # nombre = input('Escribe tu nombre: ')
@@ -13,7 +13,7 @@ def run():
     #     print(letra)
 
     frase = input('Escribe una frase: ')
-    for caracter in frase: str
+    for caracter in frase: 
         print(caracter.upper())
 
 if __name__ == '__main__':
