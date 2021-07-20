@@ -1,0 +1,25 @@
+Introducción
+Completado
+100 XP
+1 minuto
+Un objetivo común de muchos programas es tomar una entrada, procesarla, darle formato y, después, enviarla de alguna manera. En este módulo escribirá código de Python para realizar cada una de estas tareas. A lo largo del proceso, aprenderá muchas ideas fundamentales, como trabajar con datos, realizar operaciones en los datos, recuperar entradas, generar resultados y mucho más.
+
+Al final de este módulo, podrá compilar aplicaciones sencillas que puedan aceptar entrada del usuario, combinar esa entrada con texto literal y mostrar el resultado al usuario. Lo que es más importante, habrá dado los primeros pasos imprescindibles para aprender Python.
+
+Objetivos de aprendizaje
+Objetivos de este módulo:
+
+Crear archivos de código de Python y ejecutar el código en Visual Studio Code.
+Escribir código para enviar un mensaje de texto a la línea de comandos.
+Escribir código para aceptar la entrada del usuario desde la línea de comandos.
+Comprender por qué se producen errores de compilación y en tiempo de ejecución, y qué hacer a continuación.
+Concatenar texto codificado de forma rígida con datos proporcionados por el usuario para mostrar mensajes con formato personalizado al usuario.
+Realizar sumas matemáticas en datos numéricos.
+Convertir datos alfanuméricos en datos numéricos y viceversa.
+Requisitos previos
+Python 3.x instalado
+Visual Studio Code instalado
+Herramientas de Python para Visual Studio Code instaladas, incluidas todas las herramientas recomendadas, como Pylint.
+Si necesita ayuda con la instalación de estos requisitos previos, siga las instrucciones del módulo "Configuración del entorno de desarrollo para principiantes de Python con Visual Studio Code".
+
+Siguiente unidad: Ejercicio: Hello world!

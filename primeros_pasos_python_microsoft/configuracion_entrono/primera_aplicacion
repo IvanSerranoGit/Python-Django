@@ -1,0 +1,57 @@
+Creación de la primera aplicación Python
+Completado
+100 XP
+5 minutos
+Elija su sistema operativo
+Con Python y las herramientas instaladas, ahora puede crear su primera aplicación de Python. Creará un directorio vacío, lo abrirá en Visual Studio Code y, a continuación, creará la primera aplicación.
+
+Paso 1: Crear un directorio para el código
+Muchos proyectos comienzan con un directorio vacío, y es así como comenzará el suyo.
+
+Abra una ventana de terminal o comando (o vuelva a la que tenía abierta anteriormente). Cree un directorio y ábralo en Visual Studio Code escribiendo los siguientes comandos:
+
+Bash
+
+Copiar
+mkdir hello-world
+cd hello-world
+code .
+Paso 2: Crear un nuevo archivo de Python y agregar código
+Con Visual Studio Code abierto y la carpeta vacía creada, ahora creará un archivo de Python para mostrar el mensaje de clase "hola, mundo".
+
+Es posible que vea un mensaje para instalar Pylint, que puede instalar seleccionando Instalar. Si Visual Studio Code no detecta automáticamente un intérprete de Python, puede que se le pida que seleccione uno eligiendo la opción predeterminada.
+
+Dentro de la ventana Explorador, haga clic en Nuevo archivo.
+
+Captura de pantalla de la ventana Explorador de Visual Studio Code con Nuevo archivo resaltado.
+
+Asigne al nuevo archivo el nombre hello.py escribiéndolo en el nuevo cuadro de texto y seleccione Entrar.
+
+Captura de pantalla de la ventana del Explorador con el nombre hello.py para el nuevo archivo.
+
+Escriba el siguiente código de Python en la ventana del editor, que usa la función print para mostrar el texto Hola, mundo cuando se ejecuta la aplicación.
+
+Python
+
+Copiar
+print('Hello, world!')
+Guarde el archivo seleccionando Archivo y Guardar.
+
+Captura de pantalla del menú Archivo con Guardar resaltado.
+
+Paso 3: Ejecutar la aplicación
+Con el código creado ahora, puede ejecutar la aplicación. En realidad, puede ejecutarlo desde la propia aplicación Visual Studio Code.
+
+Abra el terminal integrado dentro de Visual Studio Code seleccionando Ver y Terminal.
+
+Captura de pantalla del menú Ver con Terminal resaltado.
+
+En la nueva ventana del terminal, ejecute el siguiente comando para ejecutar el código de Python.
+
+Bash
+
+Copiar
+python3 hello.py
+Aparecerá ¡Hola, mundo! en la ventana del terminal. Felicidades. Ha creado una aplicación de Python.
+
+Siguiente unidad: Prueba de conocimientos

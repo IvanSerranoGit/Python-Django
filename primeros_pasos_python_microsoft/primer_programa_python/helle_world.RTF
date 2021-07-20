@@ -1,0 +1,176 @@
+Ejercicio: Hello world!
+Completado
+100 XP
+5 minutos
+La forma más fácil de aprender a programar es escribir docenas (si no centenas) de programas pequeños que le ayudarán a comprender las ideas fundamentales y a practicar las principales técnicas.
+
+Qué va a crear
+En esta unidad, comenzará por compilar un programa que imprime un mensaje en la pantalla mediante una sola línea de código. Esta actividad requiere que navegue por Visual Studio Code y trabaje en el editor de código.
+
+Paso 1: Crear una carpeta para el primer proyecto de Python
+En primer lugar, en el equipo, cree una estructura de carpetas donde almacenará el trabajo.
+
+Se recomienda crear una sola carpeta para que contenga todos los ejercicios de cada módulo. Puede asignar el nombre que quiera a esta nueva carpeta principal, como Python o Learn. Use las herramientas y técnicas con las que esté familiarizado y cree la carpeta en un lugar del disco duro que sea fácil de encontrar.
+
+En segundo lugar, en esta carpeta de nivel superior, cree una subcarpeta para los archivos de ejercicios con los que trabajará en este módulo. Puede asignar el nombre que quiera a la nueva carpeta secundaria, como Hello.
+
+En los próximos módulos de Python, cuando se le pida que cree una nueva carpeta, asegúrese de crear subcarpetas como elementos secundarios en la carpeta primaria de este paso.
+
+Paso 2: Abrir Visual Studio Code
+Use la técnica con la que esté familiarizado para abrir Visual Studio Code desde su sistema operativo.
+
+Paso 3: Abrir la carpeta recién creada
+En Visual Studio Code, seleccione Archivo > Abrir carpeta.
+
+En la ventana Abrir carpeta, busque y seleccione la carpeta que creó en el paso 1.
+
+El nombre de la carpeta se muestra en el panel izquierdo de la vista del explorador.
+
+Paso 4: Crear y guardar un archivo
+Seleccione Archivo > Nuevo archivo. Esto agrega una nueva pestaña titulada "Sin título-1" en el panel del editor.
+
+Seleccione Archivo > Guardar como y, después, asigne al archivo el nombre hello.py.
+
+Paso 5: Agregar código al archivo
+El nuevo archivo hello.py está vacío. En el panel del editor, escriba el código siguiente:
+
+Python
+
+Copiar
+print("Hello World!")
+ Importante
+
+Escriba el código exactamente como lo ve aquí, escribiendo los paréntesis y comillas en el orden correcto y usando letras minúsculas para la palabra print. Basta un solo carácter incorrecto para provocar que el programa produzca un error y no funcione.
+
+Paso 6: Guardar el archivo y ejecutar el programa
+Después de escribir el código, seleccione Archivo > Guardar.
+
+ Nota
+
+Puede ver que el archivo debe guardarse si hay un punto en blanco a la derecha del nombre de archivo en la pestaña.
+
+Para ejecutar el programa, seleccione la flecha verde situada a la derecha de las pestañas. Si mantiene el mouse sobre la flecha, verá la información sobre herramientas "Ejecutar el archivo de Python en el terminal". Esto le permite saber que está en el lugar correcto.
+
+Captura de pantalla de Visual Studio Code con una llamada alrededor del botón de flecha verde "Reproducir" que selecciona para ejecutar el código de Python.
+
+Cuando se ejecuta el código, aparecen dos líneas en la ventana Terminal:
+
+La primera línea es el comando para compilar y ejecutar el archivo de código.
+
+Resultados
+
+Copiar
+C:\python\hello>C:/Users/<user>/AppData/Local/Programs/Python/Python38-32/python.exe c:/python/hello/hello.py
+ Nota
+
+La salida varía según el sistema operativo. Además, desde Windows, la ruta de acceso será diferente. Para <user>, sustituya su nombre de usuario.
+
+La otra línea impresa en la ventana de terminal aparece debajo de la ventana de código:
+
+Resultados
+
+Copiar
+Hello World!
+Terminado.
+
+Se ha producido un error
+Es posible que se produzca un error al intentar ejecutar el código. Esto puede ocurrir por diversos motivos.
+
+Por ejemplo, podría haber usado una P mayúscula en lugar de una p minúscula en print, como se muestra a continuación:
+
+Python
+
+Copiar
+Print("Hello World!")
+Una P mayúscula produce el siguiente mensaje de error en la salida:
+
+Resultados
+
+Copiar
+Traceback (most recent call last):
+  File "c:/python/hello/hello.py", line 1, in <module>
+    Print("Hello World!")
+NameError: name 'Print' is not defined
+Como se explicó anteriormente, la precisión es fundamental cuando se escribe código. Python distingue entre mayúsculas y minúsculas, lo que significa que print y Print son dos cosas diferentes. No hay ninguna función llamada Print con una P mayúscula.
+
+Afortunadamente, Visual Studio Code puede ayudarle a detectar errores como esto antes de ejecutar el código. Debería ver una línea ondulada roja en Print. Si mantiene el mouse sobre la palabra, una información sobre herramientas muestra la frase "Variable no definida 'Print'". El mensaje específico requiere más explicación, pero, por ahora, al menos puede detectar posibles problemas en el código.
+
+Captura de pantalla de Visual Studio Code con una línea ondulada de color rojo debajo de la palabra "Print" con una P mayúscula incorrecta.
+
+ Importante
+
+Debe guardar los cambios en el archivo para mostrar la línea ondulada de color rojo.
+
+Puede usar esta misma técnica para buscar otros tipos de problemas en el código. Por ejemplo, supongamos que ha transpuesto el orden de ciertos caracteres, como el paréntesis de cierre y la comilla de cierre, como se muestra aquí:
+
+Python
+
+Copiar
+print("Hello World!)"
+Si ejecutase el código, vería el siguiente mensaje de error:
+
+Resultados
+
+Copiar
+  File "c:/python/hello/hello.py", line 2
+
+                         ^
+SyntaxError: unexpected EOF while parsing
+En este caso, es posible que el mensaje de error todavía no sea significativo. Después de guardar el archivo, Visual Studio Code agrega una línea ondulada de color rojo debajo de la comilla de cierre, que por lo menos le debería proporcionar una pista útil para diagnosticar automáticamente el error.
+
+Esto no funciona porque no sigue las reglas de sintaxis de Python. La sintaxis en el código es similar a la gramática en lenguaje humano. En breve se explicará por qué esto infringe las reglas de sintaxis de Python.
+
+Algunos errores son fáciles de identificar y de corregir. Otros requieren un poco más de esfuerzo. Supongamos que ha usado corchetes en lugar de paréntesis, como se muestra aquí:
+
+Python
+
+Copiar
+print["Hello World!"]
+Después de guardar el archivo, aparece una línea ondulada de color rojo debajo de print. Esta vez, cuando mantenga el mouse sobre la línea ondulada roja, verá un párrafo con información adicional.
+
+Captura de pantalla de Visual Studio Code con un cuadro de mensaje que muestra información de referencia sobre el comando print y un mensaje de error.
+
+En otro módulo se explicará qué significa esta información, pero por el momento se omitirá, puesto que todavía es un poco avanzado para el momento en que nos encontramos. La clave principal es que hay un problema con el código.
+
+Al ejecutar el programa, aparece el siguiente mensaje de error en la salida:
+
+Resultados
+
+Copiar
+Traceback (most recent call last):
+  File "c:/python/hello/hello.py", line 1, in <module>
+    print["Hello World!"]
+TypeError: 'builtin_function_or_function' object is not subscriptable
+Desafortunadamente, este mensaje de error no es útil porque no describe el problema: para invocar una función, debe reemplazar los corchetes por paréntesis.
+
+En futuras situaciones como esta, apóyese en sus conocimientos de Python y su buen ojo para detectar el problema.
+
+Obtendrá tanto los conocimientos como su buen ojo a base de experiencia. Puede parecer desalentador al principio, pero, con la práctica, dominará esta información y mucho más.
+
+¿Cómo ha funcionado el programa?
+Invocó una función denominada print. Una función contiene código que funciona conjuntamente para completar una sola tarea en un sistema de software. A la función se le asigna un nombre para que pueda llamarla con ese nombre e invocar su funcionalidad. El único trabajo de la función print es enviar información a la salida, y esa salida se puede mostrar a través de una línea de comandos o una ventana de terminal.
+
+Para invocar una función, se usa un conjunto de paréntesis denominados operadores de invocación de funciones. El conjunto de paréntesis es la instrucción para el intérprete de Python que quiere que ejecute esa función.
+
+Más adelante, aprenderá a crear sus propias funciones. Al principio usará funciones que los creadores de Python han desarrollado para ayudarle a escribir aplicaciones con más rapidez. Además, aprenderá a usar bibliotecas de terceros que amplían drásticamente la funcionalidad disponible de los programas de Python para realizar una amplia variedad de tareas.
+
+Algunas funciones permiten pasar un argumento, que la función puede usar para completar su tarea. En este caso, envió a la función print una cadena literal que contiene el mensaje Hello World!. Los argumentos se pasan dentro de los operadores de invocación de funciones.
+
+Una cadena literal es un valor codificado de forma rígida que contiene caracteres alfanuméricos. En otras palabras, quiere imprimir en la salida exactamente esta cadena de caracteres: H, e, l, l, o, un espacio vacío, W, etc. Una cadena literal se define mediante un par de comillas o un par de comillas simples.
+
+Cuando el compilador de Python evalúa el código, comprueba si hay errores de sintaxis y, después, convierte el código en una sintaxis compacta llamada código de bytes que solo consta de ceros y unos. El intérprete de Python sabe cómo leer esta sintaxis y procesa cada una de las instrucciones que contiene, línea a línea.
+
+En este escenario, solo hay una línea de código. Si hubiera más, funcionaría desde arriba a abajo. Después, cuando se haya ejecutado la última línea, el programa se cerrará y se devolverá el control al sistema operativo.
+
+Resumen
+Dedique un momento a recapitular las lecciones más importantes de esta primera unidad:
+
+El proceso de escribir código de Python es un ejercicio de precisión. Use la ortografía, las mayúsculas, las minúsculas y los símbolos correctos al escribir código.
+Utilice la función print para mostrar información de texto en la salida a través de una línea de comandos o una interfaz de terminal.
+Una cadena literal es una cadena de caracteres individuales que quiere utilizar exactamente como se escribe en el programa. Una cadena literal se define mediante un par de comillas o de comillas simples.
+Visual Studio Code permite crear fácilmente un archivo de código, guardar el trabajo y, después, ejecutar el código seleccionando el icono de flecha verde.
+Si el código incluye una sintaxis no válida, el compilador de Python detiene la ejecución y muestra un error. Con las pistas proporcionadas por el compilador, puede corregir el error y volver a intentarlo.
+Al guardar el archivo de código, Visual Studio Code analiza el código y agrega una pista visual que le ayuda a detectar posibles errores antes de intentar ejecutar el programa.
+Siguiente unidad: Ejercicio: HELLO name
+
+

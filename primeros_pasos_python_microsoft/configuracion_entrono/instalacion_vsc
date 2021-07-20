@@ -1,0 +1,39 @@
+Instalación de Visual Studio Code
+Completado
+100 XP
+5 minutos
+Elija su sistema operativo
+Con Python instalado en el sistema, es el momento de prestar atención a una herramienta para escribir Python. Como se ha resaltado anteriormente, aunque puede usar un editor de texto normal para crear aplicaciones de Python, disponer de un editor de código como Visual Studio Code proporcionará un mayor nivel de compatibilidad. Vamos a explorar el kit de herramientas disponible en Visual Studio Code y cómo instalarlo.
+
+Herramientas para escribir código de Python
+Normalmente se escribe la sintaxis de Python en un archivo de texto y se guarda en el disco duro local. Se puede escribir código mediante un editor de archivos de texto simple, como el Bloc de notas de Windows. El Bloc de notas edita texto ASCII, un formato de archivo de texto estándar simple.
+
+Se recomienda evitar el uso de editores de texto que incluyan opciones de formato, como negrita, subrayado o cursiva, o de cualquier otro programa que tenga características de procesamiento de texto. Por lo tanto, no se debe escribir código en Microsoft Word ni en TextEdit en macOS. Estos programas incluirán instrucciones de formato adicionales que el compilador de Python no entenderá.
+
+Aunque se puede usar un editor de texto, normalmente se suele usar una herramienta que se adapte mejor a los desafíos únicos de la escritura de código. Hay gran cantidad de opciones, pero muchos desarrolladores confían en Visual Studio Code para este propósito. Es gratis y está disponible en Windows, macOS y Linux. Tiene muchas características que permiten navegar fácilmente por el código, independientemente del lenguaje de programación con el que quiera trabajar.
+
+Microsoft también proporciona la extensión de Python para Visual Studio Code. Esta extensión ofrece características como el resaltado de sintaxis, la navegación por el código, la compatibilidad de formato del código, etc. Hay una característica en concreto, llamada IntelliSense, que es muy útil al principio. Proporciona ayuda contextual a medida que escribe. La instalará en la siguiente unidad.
+
+Instalación de Visual Studio Code en macOS
+Esta sección le guiará a través de la descarga y la instalación de Visual Studio Code.
+
+Paso 1: Descargar Visual Studio Code
+Vaya a la página de descarga de Visual Studio Code.
+
+La página web muestra los logotipos de Windows, Linux y Mac.
+
+Descargue la versión para Mac. La mayoría de los exploradores ofrecen la opción de guardar el archivo en el equipo local (normalmente en la carpeta de descargas) o de ejecutar inmediatamente el archivo.
+
+Debe mover el archivo a la carpeta Aplicaciones antes de abrirlo, tal y como se describe en el paso siguiente.
+
+Paso 2: Mover la aplicación de la carpeta Descargas a la carpeta Aplicaciones
+Abra Finder. Arrastre el archivo de Visual Studio Code desde la pila de Descargas del Dock a la carpeta Aplicaciones en Finder.
+
+Paso 3: Iniciar Visual Studio Code desde la carpeta Aplicaciones
+Haga doble clic en la aplicación de Visual Studio Code desde la carpeta Aplicaciones.
+
+ Importante
+
+Es posible que aparezca una advertencia que indica que Visual Studio Code no se puede abrir porque Apple no puede comprobar si contiene software malintencionado. En este caso, seleccione Aceptar para descartar el mensaje. A continuación, haga clic con el botón derecho en Visual Studio Code en la carpeta Aplicaciones y seleccione la opción Abrir en el menú. Al seleccionar esta opción, Visual Studio Code debería abrirse sin problemas.
+
+Siguiente unidad: Instalación de la extensión de Python

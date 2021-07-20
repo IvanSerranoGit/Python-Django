@@ -1,0 +1,56 @@
+¿Qué es el proceso de programación?
+Completado
+100 XP
+3 minutos
+Estas son algunos de los motivos para escribir código de Python:
+
+Por diversión.
+Para automatizar parte del trabajo.
+Para analizar datos.
+Para trabajar en un equipo que compila una aplicación a gran escala para su empresa.
+Sea cual sea el motivo, los pasos son similares.
+
+En esta unidad, examinará el proceso de programación y las herramientas necesarias para crear los primeros programas de Python.
+
+¿Qué es el proceso de programación?
+¿Por qué los desarrolladores de software escriben código en primer lugar? Normalmente actúan para abordar una necesidad o un problema que requiera una solución.
+
+A medida que empiece, su necesidad puede consistir en una asignación o un desafío de codificación para un curso. Más adelante, es probable que la necesidad consista en la automatización de un problema empresarial.
+
+La compilación de un programa nuevo sigue una serie de acciones predecible:
+
+Análisis de los requisitos: el primer paso consiste en comprender el problema que está tratando de resolver. La forma en que se empiece dependerá de si se está compilando el programa para atender a un profesor, a un cliente o a uno mismo. Normalmente uno mismo quiere sumergirse en el problema. Formule preguntas críticas sobre cuál es el problema, lea cualquier comunicación o notas disponibles y realice otras acciones.
+Diseño de una solución: después, empiece a pensar en cuestiones como la apariencia del programa, su funcionalidad y lo que ocurre cuando surge un problema inesperado. Se pueden dibujar diagramas, tomar notas o visualizar mentalmente el diseño del programa. También se puede empezar a imaginar el enfoque que se va a adoptar para ciertos desafíos que plantee el código.
+Escritura del código: dedique el mayor tiempo posible a escribir el código que genere el diseño que ha creado.
+Prueba del código: a medida que se escriba código, pruébelo para ver si funciona correctamente. Más adelante, se pueden agregar más pruebas formales que impliquen a los usuarios.
+Implementación del código: distribuya el código a otros usuarios para que puedan empezar a usarlo con el fin de solucionar sus problemas. También se puede enviar el código a un instructor en una clase, que es una forma de implementación.
+Mantenimiento del código: con el tiempo, es posible que los usuarios del programa soliciten nuevas características o informen de errores en el programa. Corrija los problemas y redistribuya el código a los usuarios.
+Es posible que sea el único usuario del programa. También es posible que esté trabajando en un equipo grande y vaya a distribuir su programa a miles de usuarios. En cualquier caso, el proceso básico es el mismo. Escribir código es importante, pero no es el único paso, ni siquiera cuando se resuelven los desafíos o las asignaciones de código para una clase.
+
+La mayoría de los tutoriales y las clases suelen centrarse en escribir código. Probablemente se centran en la codificación porque es el paso más difícil y el más divertido a la vez. También es la actividad que requiere conocimientos profundos para completarse. Este paso tiene su propio proceso:
+
+Céntrese en una parte pequeña del problema más grande.
+Escriba código para implementar esa parte pequeña.
+Ejecute el programa y observe que funciona. Si no funciona correctamente, averigüe el porqué.
+Reescriba el código para corregir los problemas.
+Repita este proceso hasta que haya terminado.
+El paso final, que a veces se denomina iteración, es popular en el desarrollo de software. Normalmente escribe unas pocas líneas de código antes de ejecutar el programa. De este modo, verá si el código realmente hace lo que quiere y dónde ha fallado.
+
+Corregir un problema en el código es tan sencillo como escribir o editar un documento. Es como conducir un coche, donde se realizan miles de correcciones pequeñas en la trayectoria hasta llegar al destino. Al principio, puede que la corrección de código sea intimidante. Pero en comparación con personas como los pilotos, cirujanos y trabajadores de construcción, los desarrolladores de software pueden cometer muchos errores y seguir siendo buenos en lo que hacen.
+
+¿Qué herramientas de programación se deben usar?
+Se necesita un compilador, un intérprete y un editor de Python. Se puede usar un editor de texto básico, como Notepad en Windows, o Vim en macOS o Linux. Pero se tendría una mejor experiencia si se elige un editor de código dedicado.
+
+Estas son las herramientas que se pueden usar cuando empiece:
+
+Python: el instalador de Python contiene muchas utilidades y características. Las más importantes son las siguientes:
+
+El tiempo de ejecución de Python, que es el compilador y el intérprete.
+La biblioteca estándar de Python, que es una colección de código de gran tamaño que implementa una función común y que, por lo tanto, no tiene que hacerlo uno mismo. Más adelante, dedicaremos módulos completos a explorar esta biblioteca de código.
+Visual Studio Code: se puede usar un editor de texto básico para escribir código. Pero un editor de código dedicado como Visual Studio Code permite administrar los archivos de código, proporciona sugerencias visuales útiles a medida que se codifica y mucho más.
+
+Extensión de Python para Visual Studio Code: la extensión de Python mejora la experiencia predeterminada de Visual Studio Code al personalizar el editor para ayudar a escribir Python.
+
+En conjunto, estas herramientas de software se conocen normalmente como entorno de desarrollo. En el módulo siguiente, se recorrerán los pasos necesarios para instalar las herramientas de software necesarias para empezar a programar con Python.
+
+Siguiente unidad: Prueba de conocimientos

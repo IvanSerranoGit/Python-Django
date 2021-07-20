@@ -1,0 +1,41 @@
+Introducción
+Completado
+100 XP
+1 minuto
+El lenguaje de programación Python permite compilar muchos tipos de programas, como los siguientes:
+
+Aplicaciones empresariales para capturar, analizar y procesar datos.
+Aplicaciones web dinámicas a las que puede acceder un explorador web.
+Juegos, tanto en 2D como en 3D.
+Aplicaciones financieras y científicas.
+Aplicaciones basadas en la nube.
+Aplicaciones móviles.
+Mientras que los lenguajes de programación avanzan, Python es relativamente sencillo pero potente. Esta combinación probablemente ha contribuido a su enorme popularidad. Además del propio lenguaje de programación, Python cuenta con una gran cantidad de bibliotecas que pueden reducir tareas complejas a unas pocas líneas de código.
+
+Este módulo comienza mediante la explicación de los conceptos más básicos para asegurarse de que tiene una idea clara de cómo funciona la programación. Analizaremos lo siguiente:
+
+El rol de la sintaxis de un lenguaje de programación.
+La necesidad de la compilación y la interpretación.
+El proceso de programación.
+Las herramientas que necesita para compilar su propio entorno de desarrollo de software.
+¿Cuál es la mejor manera de aprender Python?
+La mejor manera de aprender a compilar programas de Python es escribir la mayor cantidad de código de Python posible. Pronto, trabajará con docenas de ejemplos pequeños de código. Cuando llegue a ese punto, le animaremos a escribir además de realizar los ejercicios. Completar los ejercicios y resolver los desafíos de codificación pequeños le ayudará a aprender más rápidamente.
+
+Pero, en primer lugar, trataremos información conceptual de alto nivel. En el módulo siguiente, le ayudaremos a instalar y configurar las herramientas que necesita para comenzar.
+
+Una vez que le ayudemos a centrarse, comenzará a escribir código. Practique y explore continuamente completando los ejercicios y desafíos. Estas acciones refuerzan conceptos fundamentales. A lo largo de su carrera se basará en estos conceptos.
+
+Comencemos con la pregunta más básica: ¿Qué es exactamente Python? Para responder a esa pregunta, se debe comprender la forma en la que un lenguaje de programación permite a un usuario comunicar instrucciones a un equipo.
+
+Objetivos de aprendizaje
+En este módulo, aprenderá lo siguiente:
+
+Qué hace un lenguaje de programación.
+Por qué Python es tan popular.
+Por qué Python es una excelente opción como su primer lenguaje de programación.
+Por qué debe compilar el código en un formato que los equipos entiendan.
+El proceso de programación.
+Las herramientas de software que se deben instalar.
+Requisitos previos
+None
+Siguiente unidad: ¿Qué es la programación?

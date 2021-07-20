@@ -1,0 +1,21 @@
+Introducción
+Completado
+100 XP
+1 minuto
+El primer paso para trabajar con cualquier lenguaje de programación es configurar las herramientas necesarias. Aunque podría escribir aplicaciones de Python en un editor de texto básico, casi todos los desarrolladores usan un editor de código como Visual Studio Code. Los editores de código pueden resaltar los errores de sintaxis y ofrecer la posibilidad de autocompletar. También proporcionan acceso a un amplio conjunto de complementos para mejorar aún más la experiencia de desarrollo.
+
+En este módulo, compilará el entorno de desarrollo de Python. Usará este entorno para aprender sobre Python y compilar muchas aplicaciones. También aprenderá a usar Visual Studio Code para crear y ejecutar un archivo de Python.
+
+Al final de este módulo, tendrá instaladas en su equipo las herramientas necesarias para avanzar en su objetivo de compilar aplicaciones con Python.
+
+Objetivos de aprendizaje
+Al término de este módulo, sabrá hacer lo siguiente:
+
+Instalar Python 3 si es necesario.
+Instalar y configurar Visual Studio Code y las extensiones en el equipo.
+Crear un archivo de Python y escribir y ejecutar código de Python en Visual Studio Code.
+Prerrequisitos
+Capacidad de instalar programas localmente
+Conocimientos sobre cómo abrir y ejecutar comandos desde una ventana de comando o terminal
+Conocimientos básicos de programación
+Siguiente unidad: Validación de la versión e instalación de Python

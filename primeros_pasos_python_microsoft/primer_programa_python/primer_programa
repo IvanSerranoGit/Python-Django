@@ -1,0 +1,41 @@
+Creación de su primer programa de Python
+26 min.
+Módulo
+8 Unidades
+Principiante
+Desarrollador
+Visual Studio
+Comience a usar Python y escriba código para interactuar con los usuarios finales.
+
+Objetivos de aprendizaje
+En este módulo, aprenderá a:
+
+Crear archivos de código de Python y ejecutar el código dentro de Visual Studio Code.
+Escribir código para enviar un mensaje de texto a la línea de comandos.
+Escribir código para aceptar la entrada del usuario desde la línea de comandos.
+Comprender por qué se producen errores de compilación y en tiempo de ejecución, y qué hacer a continuación.
+Concatenar texto codificado de forma rígida con datos proporcionados por el usuario para mostrar mensajes con formato personalizado al usuario.
+Realizar sumas matemáticas en datos numéricos.
+Convertir datos alfanuméricos en datos numéricos y viceversa (y saber por qué necesita hacerlo).
+Requisitos previos
+Python 3.x instalado
+Visual Studio Code instalado
+Herramientas de Python para Visual Studio Code instaladas, así como todas las herramientas recomendadas, como Pylint
+Este módulo es parte de estas rutas de aprendizaje
+Primeros pasos con Python
+Introducción
+1 min.
+Ejercicio: Hello world!
+5 min.
+Ejercicio: HELLO name
+5 min.
+Ejercicio: Suma de números
+5 min.
+Desafío
+5 min.
+Solución
+1 min.
+Prueba de conocimientos
+3 min.
+Resumen
+1 min.

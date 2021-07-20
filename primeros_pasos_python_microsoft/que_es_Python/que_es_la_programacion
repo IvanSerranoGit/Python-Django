@@ -1,0 +1,106 @@
+¿Qué es la programación?
+Completado
+100 XP
+4 minutos
+Comenzaremos hablando de la programación en términos generales. ¿Qué es un lenguaje de programación? ¿Cómo ayuda un lenguaje de programación a comunicar comandos a un equipo?
+
+Hardware frente a software
+La mayoría de nosotros sabemos que hay dos aspectos en nuestros equipos, dispositivos, teléfonos y tabletas: el hardware y el software.
+
+El término hardware describe los componentes físicos que aceptan la entrada, la procesan y emiten la salida. El hardware puede incluir lo siguiente:
+
+Una unidad central de procesamiento (CPU).
+Memoria de acceso aleatorio (RAM) para el almacenamiento a corto plazo.
+Una unidad de disco duro para el almacenamiento a largo plazo.
+Una pantalla.
+Un micrófono.
+Puertos de conector como conectores de auriculares y puertos USB.
+El término software describe las instrucciones electrónicas que indican al hardware qué hacer. Los tipos de software incluyen lo siguiente:
+
+Sistemas operativos que proporcionan una base para la interacción del dispositivo.
+Juegos.
+Procesadores de texto.
+Hojas de cálculo.
+Exploradores web.
+A menudo, la gente hace referencia al software como programas.
+
+¿Qué es un programa?
+Un programa es un conjunto de instrucciones que realizan tareas de cálculo. Estas instrucciones se compilan en un formato comprensible para un equipo. Un usuario inicia o ejecuta las instrucciones compiladas. El término usuario puede significar una persona u otro programa.
+
+La CPU del equipo ejecuta cada instrucción en el programa línea a línea. La CPU realiza lo siguiente:
+
+Guarda y recupera información, que se encuentra en un almacenamiento temporal o permanente.
+Calcula y manipula los datos.
+Muestra información en una pantalla.
+Se comunica con otros programas a través de una conexión de red.
+Incluso el programa más básico realizará una o varias de las tareas siguientes:
+
+Entrada: la entrada incluye información:
+Que un usuario que escribe en un teclado o hace clic en una interfaz de usuario acepta.
+Que se almacena como datos en un archivo.
+Que se comunica desde una conexión de red.
+Procesamiento: el procesamiento incluye lo siguiente:
+Lógica de rendimiento.
+Cálculo de fórmulas matemáticas.
+Otra manipulación o cálculo de la entrada para generar datos nuevos.
+Salida: la salida incluye información:
+Que se muestra a un usuario en una pantalla.
+Que se guarda en un archivo.
+Que se envía a otro programa a través de una conexión de red.
+Un programa puede ser lo siguiente:
+
+Una aplicación totalmente autónoma, como un juego, un editor de texto o software de facturación.
+Un script, como una macro sofisticada que se ejecuta dentro de otro programa para automatizar alguna función.
+Una combinación de código en tiempo real, ecuaciones y visualizaciones de datos que se usan en cuadernos de Jupyter.
+Python se usa habitualmente para todos estos propósitos.
+
+Algunos programas, incluidos muchos que se van a compilar cuando comencemos, requieren como máximo una docena de líneas de código. Pero los programas sofisticados, como los sistemas operativos, requieren decenas de miles o incluso un millón de líneas de código.
+
+Algunos programas son lo suficientemente pequeños para que un desarrollador de software pueda compilarlos. Otros son tan grandes y complejos que requieren docenas o incluso cientos de desarrolladores para compilarlos y mantenerlos. En ese caso, cada desarrollador trabaja en una parte pequeña del conjunto.
+
+¿Qué es la programación?
+La programación es el acto de escribir instrucciones para un equipo con el fin de crear una aplicación o un script. Algunas personas usan términos diferentes, como codificación o desarrollo, para describir la programación.
+
+Un programador es alguien que escribe esas instrucciones mediante un lenguaje de programación como Python. Entre los sinónimos de la palabra programador se incluyen los términos codificador, desarrollador de software y desarrollador.
+
+¿Qué es un lenguaje de programación?
+Los lenguajes de programación, como Python, permiten escribir las instrucciones que quiere que un equipo lleve a cabo.
+
+Cada lenguaje de programación tiene una sintaxis diferente. Pero después de aprender el primer lenguaje de programación y de intentar aprender otro, pronto se dará cuenta de que todos comparten muchas ideas similares.
+
+Un lenguaje de programación permite a alguien escribir instrucciones de forma que sean legibles y comprensibles para las personas. Las instrucciones que se escriben en un lenguaje de programación se denominan código fuente o simplemente código.
+
+Un desarrollador de software entiende y modifica el código fuente. Sin embargo, un equipo no puede entender o ejecutar código fuente. El código fuente debe compilarse en un formato que el equipo pueda entender. Más adelante, en este módulo, hablaremos sobre la compilación, la interpretación y la ejecución.
+
+¿Qué es la sintaxis?
+La sintaxis de un lenguaje de programación incluye palabras clave, operadores y reglas gramaticales. Los operadores son caracteres especiales, como paréntesis y el signo igual. Una línea simple de código de Python puede seguir una docena de reglas de sintaxis diferentes y usar varios operadores distintos.
+
+Muchos lenguajes de programación usan palabras y frases en inglés como palabras clave. Python usa palabras en inglés, como if, return, while y import, como palabras clave. Afortunadamente, hay menos de 40 palabras clave en Python, por lo que no es necesario saber inglés para poder comenzar con Python.
+
+Para conocer con fluidez cualquier lenguaje, se debe aprender y practicar nuevo vocabulario y conceptos. Aprender un lenguaje de programación no supone una excepción. Para cualquier lenguaje, hay mucho contenido que aprender. Por suerte, cada concepto es sencillo por sí solo. No tire la toalla, verá que no es tan difícil.
+
+¿Por qué hay tantos lenguajes de programación?
+Hay docenas de lenguajes de programación distintos. Los programadores han descubierto que los lenguajes disponibles no siempre ofrecen la flexibilidad, el control y la facilidad de uso necesarios. Por tanto, deciden elaborar los suyos propios.
+
+Python se ha creado para simplificar el desarrollo de software mediante el enmascaramiento de interacciones más complejas con el hardware. La contrapartida es que Python ofrece menos control sobre esas interacciones. Por lo tanto, es posible que Python no sea lo adecuado para algunas aplicaciones con un uso intensivo del procesador.
+
+Otros lenguajes de programación proporcionan un mayor control sobre interacciones complejas con el hardware. Si se usa correctamente, pueden producir un rendimiento mejor que Python. Pero pueden ser más difíciles de entender. Muchas aplicaciones de software no requieren este grado de optimización para mejorar el rendimiento.
+
+¿Debo aprender Python en primer lugar?
+Con tantas opciones, podría preguntarse si está haciendo la elección correcta empezando su carrera de programación con Python.
+
+Python es un lenguaje adecuado para principiantes. Entre otras cosas, aprenderá a hacer lo siguiente:
+
+Emplear la lógica básica.
+Crear la estructura del programa.
+Compilar expresiones e instrucciones.
+Trabajar con datos.
+Muchos de los elementos de sintaxis y otros conceptos son similares para todos los lenguajes de programación. Comenzar con un lenguaje adecuado para principiantes es un excelente primer paso. Más adelante, se pueden agregar más lenguajes de programación. Después, se centrará solo en las partes de los nuevos lenguajes que difieran de Python.
+
+Además, hay una gran demanda de aptitudes de Python en una amplia variedad de sectores.
+
+Hay muchos recursos de aprendizaje disponibles para Python. Entre los recursos se incluyen esta Ruta de aprendizaje, vídeos, artículos y libros. Python también cuenta con un soporte técnico amplio. Si surge algún problema, existen muchas comunidades de desarrolladores con experiencia dispuestos a ayudarle a resolverlo.
+
+Por lo tanto, si está pensando en empezar a programar, Python es una excelente opción.
+
+Siguiente unidad: ¿Qué es la compilación?

@@ -1,0 +1,39 @@
+Instalación de la extensión de Python
+Completado
+100 XP
+5 minutos
+Elija su sistema operativo
+Ahora que ha instalado Visual Studio Code, instalará la extensión de Python para Visual Studio Code y, opcionalmente, configurará otras herramientas y opciones de configuración.
+
+Instalación de la extensión de Python para Visual Studio Code
+Visual Studio Code es un excelente editor de código ligero de uso general, con una amplia gama de extensiones disponibles para proporcionar aún más funcionalidad. La extensión de Python para Visual Studio Code proporciona indicaciones visuales y herramientas que le ayudarán a escribir código de Python mejor y con mayor rapidez.
+
+Paso 1: Abrir la vista de extensiones
+Puede examinar las extensiones e instalarlas desde Visual Studio Code.
+
+Para abrir la vista Extensiones, seleccione Ver y Extensiones.
+
+Captura de pantalla de la opción de menú del panel Extensiones.
+
+La vista de extensiones mostrará una lista de las extensiones de Visual Studio Code más populares en Visual Studio Code Marketplace.
+
+Paso 2: Buscar la extensión de Python
+Para filtrar la lista de extensiones, escriba python en el cuadro de búsqueda situado en la parte superior de la vista de extensiones.
+
+Seleccione la extensión de Python publicada por Microsoft (normalmente es la primera de la lista). Los detalles sobre esa extensión aparecen en una pestaña en el área principal a la derecha.
+
+Paso 3: Instalar la extensión de Python
+En el área principal, donde verá los detalles sobre la extensión de Python, seleccione Instalar.
+
+Captura de pantalla de los resultados de la búsqueda en el panel Extensiones para Python con Instalar resaltado.
+
+Una vez completada la instalación, el texto del botón cambiará a Desinstalar. Esto le permite saber que ha instalado correctamente la extensión de Python.
+
+ Importante
+
+Después de instalar la extensión de Python, es posible que vea un cuadro de diálogo en el que se le pregunte si quiere instalar las herramientas de desarrollo de línea de comandos. Debe seleccionar Instalar. Deberá aceptar el contrato de licencia de las herramientas de línea de comandos. El proceso de instalación puede tardar 20 minutos o más, en función de su conexión a Internet. Una vez completada la instalación, aparece un cuadro de diálogo que indica que el software está instalado. Puede seleccionar Listo para continuar.
+
+Resumen
+Ha instalado correctamente la extensión de Python para Visual Studio Code. Vamos a crear nuestra primera aplicación de Python.
+
+Siguiente unidad: Creación de la primera aplicación Python

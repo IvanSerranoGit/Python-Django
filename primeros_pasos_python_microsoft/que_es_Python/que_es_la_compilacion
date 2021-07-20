@@ -1,0 +1,43 @@
+¿Qué es la compilación?
+Completado
+100 XP
+3 minutos
+Anteriormente hemos dicho que el código fuente debe compilarse antes de poder ejecutarse. En esta unidad, trabajará para comprender mejor la compilación. También obtendrá información sobre cómo la compilación y ejecución de Python difiere de la de otros lenguajes de programación y modelos de ejecución tradicionales.
+
+¿Qué es la compilación?
+Después de escribir el código fuente, a menudo se usa un programa especial denominado compilador. Este programa convierte el código fuente en un formato que puede ejecutar la CPU de un equipo.
+
+¿Por qué es necesario compilar el código fuente? La mayoría de los lenguajes de programación parecen crípticos al principio. Sin embargo, un lenguaje de programación está pensado realmente para tender un puente entre personas y equipos. Las personas hablan con un lenguaje humano, pero un equipo necesita instrucciones que se pueden convertir en un lenguaje binario que procesa activando y desactivando miles de pequeños conmutadores. Los compiladores enlazan estos dos mundos mediante la traducción de instrucciones legibles para los usuarios en instrucciones que entienden los equipos.
+
+Esas instrucciones se recopilan y compactan juntas en un único archivo, que un usuario puede ejecutar.
+
+Con muchos lenguajes de programación, cada vez que se cambia el código fuente, se debe volver a compilar la aplicación para crear un archivo ejecutable. Sin embargo, cada vez que un usuario quiere ejecutar un programa, este usuario simplemente abre el archivo ejecutable compilado. No es necesaria ninguna compilación adicional.
+
+A menudo se debe usar un compilador para su plataforma informática específica. Por ejemplo, para ejecutar el programa en un equipo Windows, se debe compilar mediante un compilador de Windows. Para ejecutar el programa en un equipo macOS, se debe compilar mediante un compilador de macOS.
+
+¿Cómo funciona Python?
+Python tiene características similares a las de muchos lenguajes de programación, pero funciona de forma distinta en algunos aspectos clave.
+
+Python tiene un compilador. Pero el compilador no traduce el código fuente directamente a un formato que los equipos puedan comprender. En lugar de eso, este compilador genera código en un formato especial que un intérprete de Python puede interpretar y ejecutar.
+
+Un intérprete es un programa que ejecuta cada instrucción. Realiza un seguimiento de dónde almacena valores en la RAM. Un intérprete también sabe cómo interactuar con recursos externos, como un sistema de archivos o una red.
+
+En otras palabras, un intérprete es un entorno de ejecución que administra interacciones complejas entre su intención y los trabajos internos del equipo.
+
+Además, cada vez que se ejecuta el programa, se vuelve a compilar el código fuente de Python.
+
+Este enfoque tiene varias ventajas.
+
+En primer lugar, hay un intérprete de Python disponible para muchas plataformas de equipos. Por ejemplo, si escribe código de Python en Linux, también se ejecutará en macOS y Windows. Es posible ejecutar un programa sin necesidad de compilar el código fuente para una plataforma informática específica.
+
+En segundo lugar, es posible escribir una línea de Python y ejecutarla a la vez. A medida que se aprende, es posible que se quiera experimentar con una nueva idea sin tener que crear un nuevo proyecto o archivo. En lugar de eso, simplemente ejecute Python en modo interactivo y comience a escribir el código de Python en un terminal o en una línea de comandos. Este código se pierde al salir del modo interactivo de Python. Pero funciona bien si es para un experimento rápido.
+
+Por último, se puede usar una herramienta de software especial llamada depurador para lo siguiente:
+
+Editar el programa mientras se está ejecutando.
+Pausar la ejecución del programa.
+Recorrer cada línea de código de Python para verlo mientras se ejecuta.
+Observar los cambios que realiza el código en los valores almacenados en la memoria RAM.
+Se puede editar el código que se ejecutará después, durante la ejecución del programa. Estas ediciones normalmente no se pueden realizar con lenguajes de programación que no se interpreten. Esta edición es tan solo otro motivo por el que Python está considerado como un lenguaje adecuado para principiantes.
+
+Siguiente unidad: ¿Qué es el proceso de programación?
